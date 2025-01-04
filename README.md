@@ -48,7 +48,12 @@ Aqui estão algumas das ferramentas e tecnologias que domino:
 ### 🌟 Projeto 2: [Tema Cat API]
 - **Descrição**: Este é um tema WordPress personalizado, desenvolvido para integrar com a API [TheCatAPI] 
 - **Tecnologias**: [Wordpress, PHP, Javascript, CSS, Html]
-- **Repositório**: [https://github.com/rafaelferreira2312/tema-wordpress-cat-api]
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/tema-wordpress-cat-api)]
+
+### 🌟 Projeto 3: [PagSeguro com Delphi]
+- **Descrição**: Integração de pagemento do pagseguro com delphi
+- **Tecnologias**: [Delphi]
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/pagamento-delphi-pagseguro)]
 
 ---
 
@@ -56,7 +61,7 @@ Aqui estão algumas das ferramentas e tecnologias que domino:
 
 Quer colaborar ou conversar? Entre em contato comigo!
 
-- **Website**: [rafaelferreiradasilva.com.br]
+- **Website**: [https://rafaelferreiradasilva.com.br](https://rafaelferreiradasilva.com.br)
 - **LinkedIn**: [https://www.linkedin.com/in/rafaelferreira2312](https://www.linkedin.com/in/rafaelferreira2312)
 - **GitHub**: [https://github.com/rafaelferreira2312](https://github.com/rafaelferreira2312)
 
