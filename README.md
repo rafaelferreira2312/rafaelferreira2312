@@ -29,31 +29,46 @@ Com +7 anos de experiência em projetos diversos, desde aplicativos web dinâmic
 
 ## 🛠️ Habilidades
 
-Aqui estão algumas das ferramentas e tecnologias que domino:
+Aqui estão algumas das ferramentas e tecnologias que domíno:
 
-- **Linguagens de Programação**: [Php, Ruby, Python, JavaScript, etc.]
-- **Frameworks e Bibliotecas**: [React, Node.js, , etc.]
-- **Banco de Dados**: [MySQL, PostgreSQL, MongoDB, Firebase, etc.]
-- **Ferramentas e Metodologias**: Git, Docker, CI/CD, Agile (Scrum/Kanban)
+- **Linguagens de Programação**: Php, Ruby, Python, JavaScript, Java.
+- **Frameworks e Bibliotecas**: React, Angular, Node.js.
+- **Banco de Dados**: MySQL, PostgreSQL, MongoDB, Firebase, Mariadb.
+- **Ferramentas e Metodologias**: Git, Docker, CI/CD, Agile (Scrum/Kanban).
 
 ---
 
 ## 🚀 Projetos
 
-### 🌟 Projeto 1: [Encurtador de URL]
+### 🌟 Projeto 1: Encurtador de URL
 - **Descrição**: Sistema de encurtador de URL feito com Laravel, Vue.js, Tailwindcss
-- **Tecnologias**: [Laravel, Vue.js, Tailwindcss]
+- **Tecnologias**: Laravel, Vue.js, Tailwindcss
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/sistema-shortlink)]
 
-### 🌟 Projeto 2: [Tema Cat API]
-- **Descrição**: Este é um tema WordPress personalizado, desenvolvido para integrar com a API [TheCatAPI] 
-- **Tecnologias**: [Wordpress, PHP, Javascript, CSS, Html]
+### 🌟 Projeto 2: Tema Cat API
+- **Descrição**: Este é um tema WordPress personalizado, desenvolvido para integrar com a API TheCatAPI.
+- **Tecnologias**: Wordpress, PHP, Javascript, CSS, Html
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/tema-wordpress-cat-api)]
 
-### 🌟 Projeto 3: [PagSeguro com Delphi]
-- **Descrição**: Integração de pagemento do pagseguro com delphi
-- **Tecnologias**: [Delphi]
+### 🌟 Projeto 3: PagSeguro com Delphi
+- **Descrição**: Integração de pagamento do pagseguro com delphi
+- **Tecnologias**: Delphi
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/pagamento-delphi-pagseguro)]
+
+### 🌟 Projeto 4: Sistema de Gerenciamento de Empresas
+- **Descrição**: Neste projeto, desenvolvemos um sistema de gerenciamento para uma empresa, incluindo funcionalidades para clientes pessoa jurídica, produtos e pedidos. O sistema será dividido em dois componentes principais: backend e frontend.
+- **Tecnologias**: PHP, Bootstrap, Laravel, React, Mysql e Docker
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/teste-excellent)]
+
+### 🌟 Projeto 5: Sistema de Pedidos Monolítico
+- **Descrição**: Este documento especifica a implementação de uma aplicação monolítica para gerenciamento de pedidos. A aplicação inclui um back-end com funcionalidades de CRUD para usuários e pedidos, e um front-end com autenticação e gerenciamento de pedidos.
+- **Tecnologias**: PHP sem Framework, Tailwind CSS, Javascript, Docker e PostgreSQL
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/sistema-pedido-monolitico)]
+
+### 🌟 Projeto 6: Sistema Encurtador de URL
+- **Descrição**: Sistema de encurtador de URL.
+- **Tecnologias**: Laravel, Vue.js, Tailwindcss
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/sistema-shortlink)]
 
 ---
 
@@ -64,7 +79,7 @@ Quer colaborar ou conversar? Entre em contato comigo!
 - **Website**: [https://rafaelferreiradasilva.com.br](https://rafaelferreiradasilva.com.br)
 - **LinkedIn**: [https://www.linkedin.com/in/rafaelferreira2312](https://www.linkedin.com/in/rafaelferreira2312)
 - **GitHub**: [https://github.com/rafaelferreira2312](https://github.com/rafaelferreira2312)
-
+- **Site da Empresa**: [https://github.com/rafaelferreira2312](https://vancouvertec.com.br)
 ---
 
 ## 🤝 Contribuição
