@@ -40,40 +40,40 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 
 ## 🚀 Projetos
 
-### 🌟 Projeto 1: Encurtador de URL
+### 🌟 Projeto 1: Encurtador de url
 - **Descrição**: Sistema de encurtador de URL feito com Laravel, Vue.js, Tailwindcss.
 - **Tecnologias**: Laravel, Vue.js, Tailwindcss.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/sistema-shortlink)]
 
-### 🌟 Projeto 2: Tema Cat API
+### 🌟 Projeto 2: Tema cat api
 - **Descrição**: Este é um tema WordPress personalizado, desenvolvido para integrar com a API TheCatAPI.
 - **Tecnologias**: Wordpress, PHP, Javascript, CSS, Html.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/tema-wordpress-cat-api)]
 
-### 🌟 Projeto 3: PagSeguro com Delphi
+### 🌟 Projeto 3: PagSeguro com delphi
 - **Descrição**: Integração de pagamento do pagseguro com delphi.
 - **Tecnologias**: Delphi.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/pagamento-delphi-pagseguro)]
 
-### 🌟 Projeto 4: Sistema de Gerenciamento de Empresas
+### 🌟 Projeto 4: Sistema de gerenciamento de empresas
 - **Descrição**: Neste projeto, desenvolvemos um sistema de gerenciamento para uma empresa, incluindo funcionalidades para clientes pessoa jurídica, produtos e pedidos. O sistema será dividido em dois componentes principais: backend e frontend.
 - **Tecnologias**: PHP, Bootstrap, Laravel, React, Mysql e Docker.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/teste-excellent)]
 
-### 🌟 Projeto 5: Sistema de Pedidos Monolítico
+### 🌟 Projeto 5: Sistema de pedidos monolítico
 - **Descrição**: Este documento especifica a implementação de uma aplicação monolítica para gerenciamento de pedidos. A aplicação inclui um back-end com funcionalidades de CRUD para usuários e pedidos, e um front-end com autenticação e gerenciamento de pedidos.
 - **Tecnologias**: PHP sem Framework, Tailwind CSS, Javascript, Docker e PostgreSQL
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/sistema-pedido-monolitico)]
 
-### 🌟 Projeto 6: Sistema Encurtador de URL
-- **Descrição**: Sistema de encurtador de URL.
-- **Tecnologias**: Laravel, Vue.js, Tailwindcss.
-- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/sistema-shortlink)]
-
-### 🌟 Projeto 7: Plataforma de cursos online
+### 🌟 Projeto 6: Plataforma de cursos online
 - **Descrição**: Sistema de gerenciamento de cursos online
-- **Tecnologias**: Laravel, jetstream, livewire, mysql, css, html, jquary.
+- **Tecnologias**: Laravel, Jetstream, Livewire, Mysql, Css, Html, Jquary.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/plataforma-curso-laravel)]
+
+### 🌟 Projeto 7: Sistema de gerenciamento de alunos
+- **Descrição**: Sistema de gerenciamento de cursos online
+- **Tecnologias**: Laravel, Vue.js Mysql, Css, Html, Jquary, Docker.
+- **Repositório**: [[Link para o repositório]([https://github.com/rafaelferreira2312/plataforma-curso-laravel)]
 ---
 
 ## 📬 Contato
