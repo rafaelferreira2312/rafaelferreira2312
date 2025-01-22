@@ -70,16 +70,20 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 - **Tecnologias**: Laravel, Vue.js, Tailwindcss.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/sistema-shortlink)]
 
+### 🌟 Projeto 7: Plataforma de cursos online
+- **Descrição**: Sistema de gerenciamento de cursos online
+- **Tecnologias**: Laravel, jetstream, livewire, mysql, css, html, jquary.
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/plataforma-curso-laravel)]
 ---
 
 ## 📬 Contato
 
 Quer colaborar ou conversar? Entre em contato comigo!
 
-- **Website**: [[Link do site](https://rafaelferreiradasilva.com.br)]
-- **LinkedIn**: [[Link do site](https://www.linkedin.com/in/rafaelferreira2312)]
-- **GitHub**: [[Link do site](https://github.com/rafaelferreira2312)]
-- **Site da Empresa**: [[Link do site](https://vancouvertec.com.br)]
+- **Website**: [[website](https://rafaelferreiradasilva.com.br)]
+- **LinkedIn**: [[Linkedin](https://www.linkedin.com/in/rafaelferreira2312)]
+- **GitHub**: [[Github](https://github.com/rafaelferreira2312)]
+- **Site da Empresa**: [[Site](https://vancouvertec.com.br)]
 ---
 
 ## 🤝 Contribuição
