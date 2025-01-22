@@ -73,7 +73,7 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 ### 🌟 Projeto 7: Sistema de gerenciamento de alunos
 - **Descrição**: Sistema de gerenciamento de cursos online
 - **Tecnologias**: Laravel, Vue.js Mysql, Css, Html, Jquary, Docker.
-- **Repositório**: [[Link para o repositório]([https://github.com/rafaelferreira2312/plataforma-curso-laravel)]
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/teste-fabricainfo)]
 ---
 
 ## 📬 Contato
