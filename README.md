@@ -74,6 +74,11 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 - **Descrição**: Sistema de gerenciamento de cursos online
 - **Tecnologias**: Laravel, Vue.js Mysql, Css, Html, Jquary, Docker.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/teste-fabricainfo)]
+
+### 🌟 Projeto 8: Landing Page - Rota da Fluência
+- **Descrição**: Teste da Empresa Idiomus, Criação de uma Landign Page
+- **Tecnologias**: Css, Html5, Seo e Webdesign.
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/landing-page-idiomus.git)]
 ---
 
 ## 📬 Contato
