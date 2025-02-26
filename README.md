@@ -78,12 +78,17 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 ### 🌟 Projeto 8: Landing Page - Rota da Fluência
 - **Descrição**: Teste da Empresa Idiomus, Criação de uma Landign Page
 - **Tecnologias**: Css, Html5, Seo e Webdesign.
-- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/landing-page-idiomus.git)]
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/landing-page-idiomus)]
 
 ### 🌟 Projeto 9: Assistente Chatgpt
 - **Descrição**: Aplicativo ou aplicação web de chatgpt
 - **Tecnologias**: React Native, Expo e Typescript
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/assitente-chatgpt)]
+
+### 🌟 Projeto 10: Event Manager
+- **Descrição**: Teste da Budmol
+- **Tecnologias**: Php, Laravel, Mysql, Bootstrap.
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/teste-budmol)]
 ---
 
 ## 📬 Contato
