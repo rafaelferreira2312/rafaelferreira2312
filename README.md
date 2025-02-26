@@ -79,6 +79,11 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 - **Descrição**: Teste da Empresa Idiomus, Criação de uma Landign Page
 - **Tecnologias**: Css, Html5, Seo e Webdesign.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/landing-page-idiomus.git)]
+
+### 🌟 Projeto 9: Assistente Chatgpt
+- **Descrição**: Aplicativo ou aplicação web de chatgpt
+- **Tecnologias**: React Native, Expo e Typescript
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/assitente-chatgpt)]
 ---
 
 ## 📬 Contato
