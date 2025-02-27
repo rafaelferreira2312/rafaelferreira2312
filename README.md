@@ -39,6 +39,21 @@ Com +7 anos de experiência em projetos diversos, desde aplicativos web dinâmic
 - 📜 [Certificação Cisco - Cyber Threat](/certicados/cisco/Cyber_Threat_Management_Badge20240418-31-n3014g.pdf)
 - 📜 [Certificação IBM - Docker](/certicados/ibm/Docker_Essentials__A_Developer_Introduction_Badge20240403-29-pws0d.pdf)
 - 📜 [Certificação IBM - Open Source Foundations](/certicados/ibm/Open_Source_Foundations_Badge20240402-29-4w8w2a.pdf)
+- 📜 [Certificação IBM - Introduction Open Source](/certicados/ibm/introduction-open-source-b03b086e81524b51bf6a601cb175decb.pdf)
+- 📜 [Certificação Microsoft - Azure Arquitetura](/certicados/microsoft/microsoft-azure-arquitetura-servicos.pdf)
+- 📜 [Certificação Microsoft - Azure Conceitos](/certicados/microsoft/microsoft-azure-conceitos-nuvem.pdf)
+- 📜 [Certificação Microsoft - Azure Governança](/certicados/microsoft/microsoft-azure-governanca-gerenciamento.pdf)
+- 📜 [Certificação Microsoft - Projetos Pipeline](/certicados/microsoft/Microsoft-projeto-pipeline.pdf)
+- 📜 [Certificação Microsoft - C#](/certicados/microsoft/c#-bibliotecas-de-classes.pdf)
+- 📜 [Certificação Microsoft - C#](/certicados/microsoft/c#-logica-decisao.pdf)
+- 📜 [Certificação Microsoft - C#](/certicados/microsoft/c#-primeiro-codigo.pdf)
+- 📜 [Certificação Microsoft - C#](/certicados/microsoft/c#-recuperar-dados.pdf)
+- 📜 [Certificação Microsoft - API ASPNET](/certicados/microsoft/Microsoft-api-aspnet-core.pdf)
+- 📜 [Certificação Microsoft - API ASPNET](/certicados/microsoft/Microsoft-api-minima-aspnet-core.pdf)
+- 📜 [Certificação Microsoft - SQL Server](/certicados/microsoft/sql-introducao-sql-2022.pdf)
+- 📜 [Certificação Microsoft - SQL Server](/certicados/microsoft/sql-plataforma-dados-sql-server-2022.pdf)
+- 📜 [Certificação Microsoft - PowerBI](/certicados/microsoft/PowerBI-1.pdf)
+- 📜 [Certificação Microsoft - PowerBI](/certicados/microsoft/PowerBI-2.pdf)
 
 **Principais interesses:**
 - Desenvolvimento Web e Mobile.
@@ -55,7 +70,7 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 
 - **Linguagens de Programação**: Php, Ruby, Python, JavaScript, Java.
 - **Frameworks e Bibliotecas**: React, Angular, Node.js.
-- **Banco de Dados**: MySQL, PostgreSQL, MongoDB, Firebase, Mariadb.
+- **Banco de Dados**: MySQL, PostgreSQL, MongoDB, Firebase, Mariadb, Sql Server.
 - **Ferramentas e Metodologias**: Git, Docker, CI/CD, Agile (Scrum/Kanban).
 
 ---
@@ -111,6 +126,11 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 - **Descrição**: Teste da Budmol
 - **Tecnologias**: Php, Laravel, Mysql, Bootstrap.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/teste-budmol)]
+
+### 🌟 Projeto 11: Arquitetura AWS
+- **Descrição**: Teste da Brickup
+- **Tecnologias**: Aws.
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/teste-brickup)]
 ---
 
 ## 📬 Contato
