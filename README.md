@@ -131,6 +131,11 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 - **Descrição**: Teste da Brickup
 - **Tecnologias**: Aws.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/teste-brickup)]
+
+### 🌟 Projeto 12: Blog
+- **Descrição**: Blog de tecnologia
+- **Tecnologias**: HtmL, Css, Javascript
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/blog-tecnologia)]
 ---
 
 ## 📬 Contato
