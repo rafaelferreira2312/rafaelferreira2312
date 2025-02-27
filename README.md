@@ -18,6 +18,20 @@ Olá! Sou Rafael Ferreira, desenvolvedor apaixonado por tecnologia, programaçã
 
 Com +7 anos de experiência em projetos diversos, desde aplicativos web dinâmicos até sistemas complexos de gerenciamento de dados, desenvolvi uma profunda compreensão das melhores práticas de codificação, arquitetura de software e otimização de desempenho. Minha experiência abrange uma ampla gama de tecnologias, incluindo PHP, Ruby Rails, Java, HTML, CSS, JavaScript, typescript frameworks front-end como React, laravel, django e Angular, além de Node.js, Python, e diversas ferramentas e bancos de dados. 
 
+## 🏅 Certificações
+- 📜 [Certificação Udemy - Desenvolvimento Web](/certicados/certificado-desenvolvimento-web.pdf)
+- 📜 [Certificação Udemy - Django](/certicados/certificado-django-react-vite.pdf)
+- 📜 [Certificação Udemy - Java](/certicados/certificado-java.pdf)
+- 📜 [Certificação Udemy - Laravel](/certicados/certificado-laravel.pdf)
+- 📜 [Certificação Udemy - PHP e C++](/certicados/certificado-php-c++.pdf)
+- 📜 [Certificação Udemy - React Native](/certicados/certificado-reac-native.pdf)
+- 📜 [Certificação Udemy - React Redux](/certicados/certificado-react-redux.pdf)
+- 📜 [Certificação Udemy - Ruby Rails](/certicados/certificado-ruby-rails.pdf)
+- 📜 [Certificação AWS - Introdução a Blockchain](/certicados/aws/462_3_5089400_1709578177_AWS%20Course%20Completion%20Certificate.pdf)
+- 📜 [Certificação Senai - Hacker do Bem](/certicados/senai/certificado-hacker-do-bem-Rafael-Ferreira-Da-Silva.pdf)
+- 📜 [Certificação Cisco - Python 1](/certicados/cisco/Python_Essentials_1_Badge20240321-34-qqcn9d.pdf)
+- 📜 [Certificação Cisco - Python 2](/certicados/cisco/Python_Essentials_2_Badge20240411-29-k6pwj7.pdf)
+
 **Principais interesses:**
 - Desenvolvimento Web e Mobile.
 - Desenvolvimento de Loja Virtual.
