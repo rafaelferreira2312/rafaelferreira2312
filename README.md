@@ -31,6 +31,14 @@ Com +7 anos de experiência em projetos diversos, desde aplicativos web dinâmic
 - 📜 [Certificação Senai - Hacker do Bem](/certicados/senai/certificado-hacker-do-bem-Rafael-Ferreira-Da-Silva.pdf)
 - 📜 [Certificação Cisco - Python 1](/certicados/cisco/Python_Essentials_1_Badge20240321-34-qqcn9d.pdf)
 - 📜 [Certificação Cisco - Python 2](/certicados/cisco/Python_Essentials_2_Badge20240411-29-k6pwj7.pdf)
+- 📜 [Certificação Cisco - Javascript 1](/certicados/cisco/JavaScript_Essentials_1_Badge20240318-29-xehkpx.pdf)
+- 📜 [Certificação Cisco - Javascript 2](/certicados/cisco/JavaScript_Essentials_2_Badge20240401-29-2q8rn5.pdf)
+- 📜 [Certificação Cisco - Operating Systems](/certicados/cisco/Operating_Systems_Basics_Badge20240401-29-33x8jo.pdf)
+- 📜 [Certificação Cisco - Endpoints Security](/certicados/cisco/Endpoint_Security_Badge20240424-31-s8qw2h.pdf)
+- 📜 [Certificação Cisco - Ethical Hacker](/certicados/cisco/Ethical_Hacker_Badge20240418-45-9c1yzp.pdf)
+- 📜 [Certificação Cisco - Cyber Threat](/certicados/cisco/Cyber_Threat_Management_Badge20240418-31-n3014g.pdf)
+- 📜 [Certificação IBM - Docker](/certicados/ibm/Docker_Essentials__A_Developer_Introduction_Badge20240403-29-pws0d.pdf)
+- 📜 [Certificação IBM - Open Source Foundations](/certicados/ibm/Open_Source_Foundations_Badge20240402-29-4w8w2a.pdf)
 
 **Principais interesses:**
 - Desenvolvimento Web e Mobile.
