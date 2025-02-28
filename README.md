@@ -142,10 +142,15 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 - **Tecnologias**: Node.js, Next.js, Python, PostgreSql, AWS.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/plataformas-cursos-ead)]
 
-### 🌟 Projeto 13: Gestão de Condomínios
+### 🌟 Projeto 14: Gestão de Condomínios
 - **Descrição**: O Gestão de Condomínios é um sistema completo para automatizar a gestão de faturas de condomínios a partir de emails recebidos via Gmail.
 - **Tecnologias**: Ruby, Rails, Sidekiq, PostgreSql.
-- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/gestao-condominios/tree/main)]
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/gestao-condominios)]
+
+### 🌟 Projeto 15: Clone do Uber
+- **Descrição**: uma plataforma de mobilidade semelhante ao Uber, incluindo um aplicativo para passageiros, um aplicativo para motoristas e um painel de administração. O sistema deve permitir solicitações de corrida, rastreamento em tempo real, pagamentos integrados e um sistema de avaliação.
+- **Tecnologias**: React Native, Node.js com NestJS, PostgreSql, Firebase, Google Maps API, Mapbox, Stripe, PayPal, Mercado Pago.
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/clone-uber)]
 ---
 
 ## 📬 Contato
