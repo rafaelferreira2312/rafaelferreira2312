@@ -136,6 +136,11 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 - **Descrição**: Blog de tecnologia
 - **Tecnologias**: HtmL, Css, Javascript
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/blog-tecnologia)]
+
+### 🌟 Projeto 13: Plataforma de cursos EAD
+- **Descrição**: Uma plataforma de cursos online que combina a experiência visual de uma vitrine estilo Netflix com a organização de conteúdo estilo Udemy.
+- **Tecnologias**: Node.js, Next.js, Python, PostgreSql, AWS
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/plataformas-cursos-ead)]
 ---
 
 ## 📬 Contato
