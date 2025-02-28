@@ -99,7 +99,7 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 
 ### 🌟 Projeto 5: Sistema de pedidos monolítico
 - **Descrição**: Este documento especifica a implementação de uma aplicação monolítica para gerenciamento de pedidos. A aplicação inclui um back-end com funcionalidades de CRUD para usuários e pedidos, e um front-end com autenticação e gerenciamento de pedidos.
-- **Tecnologias**: PHP sem Framework, Tailwind CSS, Javascript, Docker e PostgreSQL
+- **Tecnologias**: PHP sem Framework, Tailwind CSS, Javascript, Docker e PostgreSQL.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/sistema-pedido-monolitico)]
 
 ### 🌟 Projeto 6: Plataforma de cursos online
@@ -119,7 +119,7 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 
 ### 🌟 Projeto 9: Assistente Chatgpt
 - **Descrição**: Aplicativo ou aplicação web de chatgpt
-- **Tecnologias**: React Native, Expo e Typescript
+- **Tecnologias**: React Native, Expo e Typescript.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/assitente-chatgpt)]
 
 ### 🌟 Projeto 10: Event Manager
@@ -134,13 +134,18 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 
 ### 🌟 Projeto 12: Blog
 - **Descrição**: Blog de tecnologia
-- **Tecnologias**: HtmL, Css, Javascript
+- **Tecnologias**: HtmL, Css, Javascript.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/blog-tecnologia)]
 
 ### 🌟 Projeto 13: Plataforma de cursos EAD
 - **Descrição**: Uma plataforma de cursos online que combina a experiência visual de uma vitrine estilo Netflix com a organização de conteúdo estilo Udemy.
-- **Tecnologias**: Node.js, Next.js, Python, PostgreSql, AWS
+- **Tecnologias**: Node.js, Next.js, Python, PostgreSql, AWS.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/plataformas-cursos-ead)]
+
+### 🌟 Projeto 13: Gestão de Condomínios
+- **Descrição**: O Gestão de Condomínios é um sistema completo para automatizar a gestão de faturas de condomínios a partir de emails recebidos via Gmail.
+- **Tecnologias**: Ruby, Rails, Sidekiq, PostgreSql.
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/gestao-condominios/tree/main)]
 ---
 
 ## 📬 Contato
