@@ -54,6 +54,10 @@ Com +7 anos de experiência em projetos diversos, desde aplicativos web dinâmic
 - 📜 [Certificação Microsoft - SQL Server](/certicados/microsoft/sql-plataforma-dados-sql-server-2022.pdf)
 - 📜 [Certificação Microsoft - PowerBI](/certicados/microsoft/PowerBI-1.pdf)
 - 📜 [Certificação Microsoft - PowerBI](/certicados/microsoft/PowerBI-2.pdf)
+- 📜 [Certificação - Scrum Master + Agile Scrum](/certicados/udemy/UC-1c3afb70-61c7-45ac-9366-ff0765356b47.pdf)
+- 📜 [Certificação Wordpress - Completo](/certicados/udemy/UC-5638e04f-b53f-4567-b088-3ff1fa54c843.pdf)
+- 📜 [Certificação Wordpress - Figma](/certicados/udemy/UC-ec26ea92-9183-4f67-b1b5-556245d15ce2.pdf)
+- 📜 [Certificação Wordpress - Elementor Pro](/certicados/udemy/UC-fcc87b66-4ba4-4fe4-8bb6-159a5900716d.pdf)
 
 **Principais interesses:**
 - Desenvolvimento Web e Mobile.
