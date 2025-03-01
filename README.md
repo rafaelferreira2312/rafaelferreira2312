@@ -29,6 +29,7 @@ Com +7 anos de experiência em projetos diversos, desde aplicativos web dinâmic
 - 📜 [Certificação Udemy - Ruby Rails](/certicados/certificado-ruby-rails.pdf)
 - 📜 [Certificação AWS - Introdução a Blockchain](/certicados/aws/462_3_5089400_1709578177_AWS%20Course%20Completion%20Certificate.pdf)
 - 📜 [Certificação Senai - Hacker do Bem](/certicados/senai/certificado-hacker-do-bem-Rafael-Ferreira-Da-Silva.pdf)
+- 📜 [Certificação Senai - Hacker do Bem - Básico](/certicados/senai/Certificado_-_Bsico.pdf)
 - 📜 [Certificação Cisco - Python 1](/certicados/cisco/Python_Essentials_1_Badge20240321-34-qqcn9d.pdf)
 - 📜 [Certificação Cisco - Python 2](/certicados/cisco/Python_Essentials_2_Badge20240411-29-k6pwj7.pdf)
 - 📜 [Certificação Cisco - Javascript 1](/certicados/cisco/JavaScript_Essentials_1_Badge20240318-29-xehkpx.pdf)
@@ -55,9 +56,13 @@ Com +7 anos de experiência em projetos diversos, desde aplicativos web dinâmic
 - 📜 [Certificação Microsoft - PowerBI](/certicados/microsoft/PowerBI-1.pdf)
 - 📜 [Certificação Microsoft - PowerBI](/certicados/microsoft/PowerBI-2.pdf)
 - 📜 [Certificação - Scrum Master + Agile Scrum](/certicados/udemy/UC-1c3afb70-61c7-45ac-9366-ff0765356b47.pdf)
+- 📜 [Certificação - Mini MBA Thecnology](/certicados/udemy/UC-2ada9651-d4be-42b6-8895-7dc5e0d80ba6.pdf)
+- 📜 [Certificação Dupal](/certicados/udemy/UC-37e25525-27a3-4c17-96b0-d812e032d478.pdf)
 - 📜 [Certificação Wordpress - Completo](/certicados/udemy/UC-5638e04f-b53f-4567-b088-3ff1fa54c843.pdf)
 - 📜 [Certificação Wordpress - Figma](/certicados/udemy/UC-ec26ea92-9183-4f67-b1b5-556245d15ce2.pdf)
 - 📜 [Certificação Wordpress - Elementor Pro](/certicados/udemy/UC-fcc87b66-4ba4-4fe4-8bb6-159a5900716d.pdf)
+- 📜 [Certificação - Webdesign + Development](/certicados/udemy/UC-6d2ba5ed-5550-4fe1-bec2-c4d1399fdef2.pdf)
+- 📜 [Certificação - Flutter](/certicados/udemy/rest-api-flutter-application-using-flutter.pdf)
 
 **Principais interesses:**
 - Desenvolvimento Web e Mobile.
