@@ -77,8 +77,8 @@ Com +7 anos de experiência em projetos diversos, desde aplicativos web dinâmic
 
 Aqui estão algumas das ferramentas e tecnologias que domíno:
 
-- **Linguagens de Programação**: Php, Ruby, Python, JavaScript, Java.
-- **Frameworks e Bibliotecas**: React, Angular, Node.js.
+- **Linguagens de Programação**: Php, Ruby, Python, JavaScript, Java e C#.
+- **Frameworks e Bibliotecas**: Angular, React, Vue, Django, Ruby on Rails, Express, Laravel, React Native, Flutter, Zend, Cake, Symfony, Yii, Codeigniter, Bootstrap, Express.
 - **Banco de Dados**: MySQL, PostgreSQL, MongoDB, Firebase, Mariadb, Sql Server.
 - **Ferramentas e Metodologias**: Git, Docker, CI/CD, Agile (Scrum/Kanban).
 
