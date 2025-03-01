@@ -151,6 +151,11 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 - **Descrição**: uma plataforma de mobilidade semelhante ao Uber, incluindo um aplicativo para passageiros, um aplicativo para motoristas e um painel de administração. O sistema deve permitir solicitações de corrida, rastreamento em tempo real, pagamentos integrados e um sistema de avaliação.
 - **Tecnologias**: React Native, Node.js com NestJS, PostgreSql, Firebase, Google Maps API, Mapbox, Stripe, PayPal, Mercado Pago.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/clone-uber)]
+
+### 🌟 Projeto 16: Conversor de Vídeo em TXT
+- **Descrição**: Este projeto extrai o áudio de arquivos de vídeo no formato .mkv e o transcreve em um arquivo .txt utilizando Python.
+- **Tecnologias**: Python
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/projeto-phyton-audio-em-pdf)]
 ---
 
 ## 📬 Contato
