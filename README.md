@@ -86,37 +86,37 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 
 ## 🚀 Projetos
 
-### 🌟 Projeto 1: Encurtador de url
+### 🌟 Projeto 1: Encurtador de url.
 - **Descrição**: Sistema de encurtador de URL feito com Laravel, Vue.js, Tailwindcss.
 - **Tecnologias**: Laravel, Vue.js, Tailwindcss.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/sistema-shortlink)]
 
-### 🌟 Projeto 2: Tema cat api
+### 🌟 Projeto 2: Tema cat api.
 - **Descrição**: Este é um tema WordPress personalizado, desenvolvido para integrar com a API TheCatAPI.
 - **Tecnologias**: Wordpress, PHP, Javascript, CSS, Html.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/tema-wordpress-cat-api)]
 
-### 🌟 Projeto 3: PagSeguro com delphi
+### 🌟 Projeto 3: PagSeguro com delphi.
 - **Descrição**: Integração de pagamento do pagseguro com delphi.
 - **Tecnologias**: Delphi.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/pagamento-delphi-pagseguro)]
 
-### 🌟 Projeto 4: Sistema de gerenciamento de empresas
+### 🌟 Projeto 4: Sistema de gerenciamento de empresas.
 - **Descrição**: Neste projeto, desenvolvemos um sistema de gerenciamento para uma empresa, incluindo funcionalidades para clientes pessoa jurídica, produtos e pedidos. O sistema será dividido em dois componentes principais: backend e frontend.
 - **Tecnologias**: PHP, Bootstrap, Laravel, React, Mysql e Docker.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/teste-excellent)]
 
-### 🌟 Projeto 5: Sistema de pedidos monolítico
+### 🌟 Projeto 5: Sistema de pedidos monolítico.
 - **Descrição**: Este documento especifica a implementação de uma aplicação monolítica para gerenciamento de pedidos. A aplicação inclui um back-end com funcionalidades de CRUD para usuários e pedidos, e um front-end com autenticação e gerenciamento de pedidos.
 - **Tecnologias**: PHP sem Framework, Tailwind CSS, Javascript, Docker e PostgreSQL.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/sistema-pedido-monolitico)]
 
-### 🌟 Projeto 6: Plataforma de cursos online
-- **Descrição**: Sistema de gerenciamento de cursos online
+### 🌟 Projeto 6: Plataforma de cursos online.
+- **Descrição**: Sistema de gerenciamento de cursos online.
 - **Tecnologias**: Laravel, Jetstream, Livewire, Mysql, Css, Html, Jquary.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/plataforma-curso-laravel)]
 
-### 🌟 Projeto 7: Sistema de gerenciamento de alunos
+### 🌟 Projeto 7: Sistema de gerenciamento de alunos.
 - **Descrição**: Sistema de gerenciamento de cursos online
 - **Tecnologias**: Laravel, Vue.js Mysql, Css, Html, Jquary, Docker.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/teste-fabricainfo)]
@@ -126,50 +126,55 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 - **Tecnologias**: Css, Html5, Seo e Webdesign.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/landing-page-idiomus)]
 
-### 🌟 Projeto 9: Assistente Chatgpt
+### 🌟 Projeto 9: Assistente chatgpt.
 - **Descrição**: Aplicativo ou aplicação web de chatgpt
 - **Tecnologias**: React Native, Expo e Typescript.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/assitente-chatgpt)]
 
-### 🌟 Projeto 10: Event Manager
-- **Descrição**: Teste da Budmol
+### 🌟 Projeto 10: Event manager.
+- **Descrição**: Teste da Budmol.
 - **Tecnologias**: Php, Laravel, Mysql, Bootstrap.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/teste-budmol)]
 
-### 🌟 Projeto 11: Arquitetura AWS
-- **Descrição**: Teste da Brickup
+### 🌟 Projeto 11: Arquitetura aws.
+- **Descrição**: Teste da Brickup.
 - **Tecnologias**: Aws.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/teste-brickup)]
 
-### 🌟 Projeto 12: Blog
+### 🌟 Projeto 12: Blog.
 - **Descrição**: Blog de tecnologia
 - **Tecnologias**: HtmL, Css, Javascript.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/blog-tecnologia)]
 
-### 🌟 Projeto 13: Plataforma de cursos EAD
+### 🌟 Projeto 13: Plataforma de cursos ead.
 - **Descrição**: Uma plataforma de cursos online que combina a experiência visual de uma vitrine estilo Netflix com a organização de conteúdo estilo Udemy.
 - **Tecnologias**: Node.js, Next.js, Python, PostgreSql, AWS.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/plataformas-cursos-ead)]
 
-### 🌟 Projeto 14: Gestão de Condomínios
+### 🌟 Projeto 14: Gestão de condomínios.
 - **Descrição**: O Gestão de Condomínios é um sistema completo para automatizar a gestão de faturas de condomínios a partir de emails recebidos via Gmail.
 - **Tecnologias**: Ruby, Rails, Sidekiq, PostgreSql.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/gestao-condominios)]
 
-### 🌟 Projeto 15: Clone do Uber
+### 🌟 Projeto 15: Clone do uber.
 - **Descrição**: uma plataforma de mobilidade semelhante ao Uber, incluindo um aplicativo para passageiros, um aplicativo para motoristas e um painel de administração. O sistema deve permitir solicitações de corrida, rastreamento em tempo real, pagamentos integrados e um sistema de avaliação.
 - **Tecnologias**: React Native, Node.js com NestJS, PostgreSql, Firebase, Google Maps API, Mapbox, Stripe, PayPal, Mercado Pago.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/clone-uber)]
 
-### 🌟 Projeto 16: Conversor de Vídeo em TXT
+### 🌟 Projeto 16: Conversor de vídeo em txt.
 - **Descrição**: Este projeto extrai o áudio de arquivos de vídeo no formato .mkv e o transcreve em um arquivo .txt utilizando Python.
-- **Tecnologias**: Python
+- **Tecnologias**: Python.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/projeto-phyton-audio-em-pdf)]
 
-- ### 🌟 Projeto 17: CRM com CRUD em PHP
+- ### 🌟 Projeto 17: CRM com crud em php.
 - **Descrição**: Este projeto é um mini framework para um sistema CRM (Customer Relationship Management) desenvolvido em PHP 7 e MySQL, utilizando o template AdminLTE 3 para o frontend.
-- **Tecnologias**: PHP, Adminlte, Mysql, Css, Html, Bootstrap
+- **Tecnologias**: PHP, Adminlte, Mysql, Css, Html, Javascript, Bootstrap.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/crm-vtec)]
+
+- ### 🌟 Projeto 18: Monitoramento de veículos.
+- **Descrição**: Carvision Web é um sistema de monitoramento veicular que permite acompanhar o status e o histórico de localização de veículos cadastrados.
+- **Tecnologias**: PHP, Mysql, Css, Html e Javascript.
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/rastreamento-de-carro)]
 ---
 
 ## 📬 Contato
