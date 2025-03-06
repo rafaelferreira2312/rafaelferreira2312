@@ -165,6 +165,11 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 - **Descrição**: Este projeto extrai o áudio de arquivos de vídeo no formato .mkv e o transcreve em um arquivo .txt utilizando Python.
 - **Tecnologias**: Python
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/projeto-phyton-audio-em-pdf)]
+
+- ### 🌟 Projeto 17: CRM com CRUD em PHP
+- **Descrição**: Este projeto é um mini framework para um sistema CRM (Customer Relationship Management) desenvolvido em PHP 7 e MySQL, utilizando o template AdminLTE 3 para o frontend.
+- **Tecnologias**: PHP, Adminlte, Mysql, Css, Html, Bootstrap
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/crm-vtec)]
 ---
 
 ## 📬 Contato
