@@ -1,6 +1,6 @@
-# Bem-vindo ao Perfil de Rafael Ferreira da Silva
+# Bem-vindo ao Perfil de Rafael Silva
 
-Olá! Sou Rafael Ferreira, desenvolvedor apaixonado por tecnologia, programação e soluções inovadoras. Este espaço é onde compartilho meus projetos, ideias e contribuições para a comunidade de código aberto. 
+Olá! Sou Rafael Ferreira da Silva, desenvolvedor apaixonado por tecnologia, programação e soluções inovadoras. Este espaço é onde compartilho meus projetos, ideias e contribuições para a comunidade de código aberto. 
 
 ---
 
