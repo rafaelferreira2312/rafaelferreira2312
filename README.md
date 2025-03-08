@@ -175,6 +175,16 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 - **Descrição**: Carvision Web é um sistema de monitoramento veicular que permite acompanhar o status e o histórico de localização de veículos cadastrados.
 - **Tecnologias**: PHP, Mysql, Css, Html e Javascript.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/rastreamento-de-carro)]
+
+- ### 🌟 Projeto 19: Landing page.
+- **Descrição**: Finwise é um modelo de landing page Next.js e Tailwind CSS leve, facilmente configurável e personalizável. Ele foi criado para ser adaptável, performático e perfeito para qualquer lançamento de produto, portfólio ou site promocional.
+- **Tecnologias**: Next.js, Tailwind css.
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/finwise-saas-landing-page)]
+
+- ### 🌟 Projeto 20: Ecommerce vue.js
+- **Descrição**: Este repositório é um exemplo de aplicativo de demonstração criado com o Shopware Frontends Framework e o Nuxt 3.
+- **Tecnologias**: Vue.js e Typescript.
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/shopware-nuxt-ecommerce)]
 ---
 
 ## 📬 Contato
