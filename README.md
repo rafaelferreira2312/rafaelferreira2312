@@ -186,10 +186,18 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 - **Tecnologias**: Vue.js e Typescript.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/shopware-nuxt-ecommerce)]
 
-- ### 🌟 Projeto 21: Clone Nubank
+- ### 🌟 Projeto 22: Clone Nubank
 - **Descrição**: Um clone funcional do aplicativo Nubank desenvolvido em React Native.
 - **Tecnologias**: Expo, React Native, Android, Ios.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/nubank-clone)]
+---
+
+- ### 🌟 Projeto 22: Sistema de Gerenciamento para Engenharia 
+- **Descrição**: Este é projeto engineer com PHP/Laravel e Angular, alinhado aos requisitos de um cliente. O sistema simula uma plataforma de gerenciamento de projetos para engenharia civil e mecânica, com potencial para integração com IA.
+- **Backend**: Backend: PHP 8.2, Laravel 10, Redis, MongoDB/MariaDB
+- **Frontend**: Angular 16, TypeScript, Bootstrap 5
+- **Infraestrutura**: Docker, Nginx (simulando Apache), CI/CD com GitHub Actions
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/engenharia-management)]
 ---
 
 ## 📬 Contato
