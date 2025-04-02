@@ -200,6 +200,11 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/engenharia-management)]
 ---
 
+- ### 🌟 Projeto 23: Wordpress Full Code 
+- **Descrição**: Este projeto fornece um ambiente altamente modular e flexível para desenvolvimento de múltiplos projetos WordPress com suporte a diferentes versões de PHP, múltiplos bancos de dados e servidores web intercambiáveis.
+- **Tecnologias**: Php, Wordpress, Docker, Scripts, Mysql, Oracle, Postgresql, Mariadb, Sqlite, Apache, Nginx
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/wordpress-full-code-projeto)]
+
 ## 📬 Contato
 
 Quer colaborar ou conversar? Entre em contato comigo!
