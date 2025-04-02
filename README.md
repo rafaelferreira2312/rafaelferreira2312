@@ -126,6 +126,7 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 - **Descrição**: Sistema de gerenciamento de cursos online
 - **Tecnologias**: Laravel, Vue.js Mysql, Css, Html, Jquary, Docker.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/teste-fabricainfo)]
+---
 
 ### 🌟 Projeto 8: Landing Page - Rota da Fluência
 - **Descrição**: Teste da Empresa Idiomus, Criação de uma Landign Page
@@ -137,6 +138,7 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 - **Descrição**: Aplicativo ou aplicação web de chatgpt
 - **Tecnologias**: React Native, Expo e Typescript.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/assitente-chatgpt)]
+---
 
 ### 🌟 Projeto 10: Event manager.
 - **Descrição**: Teste da Budmol.
@@ -148,6 +150,7 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 - **Descrição**: Teste da Brickup.
 - **Tecnologias**: Aws.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/teste-brickup)]
+---
 
 ### 🌟 Projeto 12: Blog.
 - **Descrição**: Blog de tecnologia
@@ -159,6 +162,7 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 - **Descrição**: Uma plataforma de cursos online que combina a experiência visual de uma vitrine estilo Netflix com a organização de conteúdo estilo Udemy.
 - **Tecnologias**: Node.js, Next.js, Python, PostgreSql, AWS.
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/plataformas-cursos-ead)]
+---
 
 ### 🌟 Projeto 14: Gestão de condomínios.
 - **Descrição**: O Gestão de Condomínios é um sistema completo para automatizar a gestão de faturas de condomínios a partir de emails recebidos via Gmail.
