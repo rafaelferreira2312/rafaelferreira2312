@@ -226,6 +226,12 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 - **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/wordpress-full-code-projeto)]
 ---
 
+- ### 🌟 Projeto 24: Gerador de Emails Únicos 
+- **Descrição**: Este projeto é uma ferramenta simples e prática para gerar emails únicos e senhas personalizadas. Ele foi desenvolvido para ajudar usuários a criar múltiplos emails fictícios ou únicos com diferentes padrões de geração. É ideal para testes, automações ou necessidades específicas de geração de credenciais.
+- **Tecnologias**: html, css e javascript
+- **Repositório**: [[Link para o repositório](https://rafaelferreira2312.github.io/gerador-emails)]
+---
+
 ## 📬 Contato
 
 Quer colaborar ou conversar? Entre em contato comigo!
