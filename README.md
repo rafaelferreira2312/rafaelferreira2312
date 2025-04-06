@@ -63,6 +63,7 @@ Com +7 anos de experiência em projetos diversos, desde aplicativos web dinâmic
 - 📜 [Certificação Wordpress - Elementor Pro](/certicados/udemy/UC-fcc87b66-4ba4-4fe4-8bb6-159a5900716d.pdf)
 - 📜 [Certificação - Webdesign + Development](/certicados/udemy/UC-6d2ba5ed-5550-4fe1-bec2-c4d1399fdef2.pdf)
 - 📜 [Certificação - Flutter](/certicados/udemy/rest-api-flutter-application-using-flutter.pdf)
+- 📜 [Certificação - Java](/certicados/udemy/certificado-java.pdf)
 
 **Principais interesses:**
 - Desenvolvimento Web e Mobile.
@@ -230,6 +231,12 @@ Aqui estão algumas das ferramentas e tecnologias que domíno:
 - **Descrição**: Este projeto é uma ferramenta simples e prática para gerar emails únicos e senhas personalizadas. Ele foi desenvolvido para ajudar usuários a criar múltiplos emails fictícios ou únicos com diferentes padrões de geração. É ideal para testes, automações ou necessidades específicas de geração de credenciais.
 - **Tecnologias**: html, css e javascript
 - **Repositório**: [[Link para o repositório](https://rafaelferreira2312.github.io/gerador-emails)]
+---
+
+- ### 🌟 Projeto 25: PDV Multiplataforma
+- **Descrição**:Sistema de Ponto de Venda (PDV) desenvolvido com Electron para funcionar em Windows, Linux, macOS, iOS e Android, com backend containerizado em Docker e banco de dados PostgreSQL. Integra gestão de vendas, emissão de NF-e, controle de estoque e fluxo de caixa.
+- **Tecnologias**: electron, node.js, postgresql, html, css, typescript, shell, redis, ci-cd javascript
+- **Repositório**: [[Link para o repositório](https://github.com/rafaelferreira2312/pdv-multiplataforma)]
 ---
 
 ## 📬 Contato
