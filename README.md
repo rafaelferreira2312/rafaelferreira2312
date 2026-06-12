@@ -87,7 +87,7 @@ Já entreguei projetos para clientes como **Fiocruz/Fiotec** e **JBS/Seara (via 
 | Projeto | Stack | Descrição |
 |---|---|---|
 | [**PDV Multiplataforma**](https://github.com/rafaelferreira2312/pdv-multiplataforma) ⭐ | Electron · Node.js · PostgreSQL · Redis · TypeScript | Sistema de Ponto de Venda para Windows, Linux, macOS, iOS e Android. Emissão de NF-e, controle de estoque e fluxo de caixa em container Docker. |
-| [**VTec Fácil**](https://github.com/rafaelferreira2312/vtecfacil) | — | Software de gestão empresarial da Vancouver Tec. |
+| [**VTec Fácil**](https://rafaelferreira2312.github.io/vtecfacil) | — | Software de gestão empresarial da Vancouver Tec. |
 | [**Sistema de Gerenciamento de Empresas**](https://github.com/rafaelferreira2312/teste-excellent) | PHP · Laravel · React · MySQL · Docker | Sistema completo com módulo de clientes PJ, produtos e pedidos. Backend + Frontend segregados. |
 | [**Sistema de Pedidos Monolítico**](https://github.com/rafaelferreira2312/sistema-pedido-monolitico) | PHP Vanilla · Tailwind · JavaScript · Docker · PostgreSQL | Aplicação monolítica com CRUD completo para usuários e pedidos com autenticação. |
 | [**CRM com CRUD em PHP**](https://github.com/rafaelferreira2312/crm-vtec) | PHP 7 · MySQL · AdminLTE 3 · Bootstrap | Mini framework CRM com gestão de relacionamento com cliente. |
